@@ -25,4 +25,4 @@ if not result:
 
 
 
-elevate_and_run_command("python && pause")
+elevate_and_run_command("python p2.py && pause")
